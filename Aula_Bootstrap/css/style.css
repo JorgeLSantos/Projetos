@@ -1,0 +1,33 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar {
+    background-color: rgba(150, 150, 150, 0.5);
+
+}
+
+.quemsomos{
+    background-color: green;
+    color: white;
+}
+
+.margin{
+    padding-top:  30px;
+    padding-bottom:  10px;
+}
+
+.parceiros{
+    background-color: blue;
+    color: white;
+}
+
+.servicos{
+    background-color: red;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    font-family:'Courier New', Courier, monospace
+}
